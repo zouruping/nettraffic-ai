@@ -7,6 +7,11 @@ node_modules
 .env.local
 .env.*.local
 python-capture/.env
+python-capture/.venv/
+python-capture/**/__pycache__/
+__pycache__/
+*.pyc
+*.log
 
 # Log files
 npm-debug.log*
